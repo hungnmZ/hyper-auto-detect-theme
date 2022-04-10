@@ -1,0 +1,16 @@
+{
+  "name": "hyper-auto-detect-theme",
+  "version": "1.0.0",
+  "description": "The Hyper.app theme automatically detects OS appearance change. It based on Atom One Dark/Light theme",
+  "main": "index.js",
+  "repository": "https://github.com/hungnmZ/hyper-auto-detect-theme",
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "author": "hungnmZ",
+  "license": "MIT",
+  "dependencies": {
+    "@electron/remote": "^2.0.4"
+  }
+}
